@@ -1,15 +1,15 @@
 The objective is to extract textual data articles from the given URL and perform text analysis to compute variables given below.
-1.	POSITIVE SCORE
-2.	NEGATIVE SCORE
-3.	POLARITY SCORE
-4.	SUBJECTIVITY SCORE
-5.	AVG SENTENCE LENGTH
-6.	PERCENTAGE OF COMPLEX WORDS
-7.	FOG INDEX
-8.	AVG NUMBER OF WORDS PER SENTENCE
-9.	COMPLEX WORD COUNT
-10.	WORD COUNT
-11.	SYLLABLE PER WORD
-12.	PERSONAL PRONOUNS
-13.	AVG WORD LENGTH
+1.	Positve Score
+2.	Negative Score
+3.	Polarity Score
+4.	Subjectivity Score
+5.	Average Sentence Length
+6.	Percentage Of Complex Words
+7.	Fog Index
+8.	Average Number of Words per Sentence
+9.	Complex Word Count
+10.	Word Count
+11.	Syllable per Word
+12.	Personal Pronouns
+13.	Average Word Length
 
